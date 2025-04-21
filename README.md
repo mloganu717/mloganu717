@@ -61,5 +61,5 @@ Aspiring entrepreneur leveraging deep learning to build solutions that make a me
 
 ## 📊 GitHub Stats
 
-![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mloganu717&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mloganu717&layout=compact&theme=radical&count_private=true&include_all_commits=true&v=1)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sugarglider717&layout=compact&theme=radical)
