@@ -1,18 +1,13 @@
 # Hi there 👋 Logan here!
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/28517335/102723167-55adaf00-432c-11eb-80cc-45f32ffd8e3a.jpeg" height="300px" width="4000px">
-</p>
-<p>
-Aspiring entrepreneur leveraging deep learning to build solutions that make a meaningful impact on society.
   
-- 🌱 I’m currently learning machine learning + UI/UX design 
-- 🔭 I’m currently working on Deep Learning Model Deployment on Azure
+* 🌍  I'm based in Dallas, TX
+* ✉️  You can contact me at [mloganu717@gmail.com](mailto:mloganu717@gmail.com)
+* 🚀  I'm currently working on a startup
+* 🧠  I'm learning Rust
+* 🤝  I'm open to collaborating on community projects
 
-- 🤝 I’m looking to collaborate on: a) Space-Tech Projects and b) Localisation of products using NLP
-- 📫 How to reach me: [mloganu717@gmail.com](mailto:mloganu717@gmail.com)
+<p align="left"> <a href="https://www.dev.to/phamleduy04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/phamleduy04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/phamleduy04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/logan-margabandu-8b01a0319/)) 
 
 ### Skills
 
