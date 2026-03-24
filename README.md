@@ -3,7 +3,6 @@
 * 🌍  I'm based in Dallas, TX
 * ✉️  You can contact me at [mloganu717@gmail.com](mailto:mloganu717@gmail.com)
 * 🚀  I'm currently working on a startup
-* 🧠  I'm learning Rust
 * 🤝  I'm open to collaborating on community projects
 
 <p align="left">
