@@ -41,8 +41,16 @@
 #### 🐍 Core Languages
 [![Core Languages](https://skillicons.dev/icons?i=py,r,matlab,c,cpp,java)](https://skillicons.dev)
 
-#### 📊 Data Science & ML
+#### 🤖 Data Science & ML
 [![Data Science](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)
+
+#### ⚡ HPC & Parallel Computing
+<p>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenMP-0071C5?style=for-the-badge&logo=openmp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MPI-FF6600?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge&logo=khronos&logoColor=white" />
+</p>
 
 #### 📈 Stats & Visualization
 [![Viz](https://skillicons.dev/icons?i=r,matlab)](https://skillicons.dev)
