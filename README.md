@@ -2,7 +2,7 @@
 
 # Hi there, I'm Logan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=HPC+Machine+Learning+Engineer+Intern+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=HPC+Machine+Learning+Engineer+Intern+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
