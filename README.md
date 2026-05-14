@@ -2,7 +2,7 @@
 
 # Hi there, I'm Logan 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Graduate+Researcher+%F0%9F%94%AC;Data+Scientist+%F0%9F%93%8A;Computational+Economist+%F0%9F%92%B9;ML+%26+Stats+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Graduate+Researcher+%F0%9F%94%AC;Data+Scientist+%F0%9F%93%8A;HPC+Machine+Learning+Engineer+Intern+%F0%9F%96%A5%EF%B8%8F;ML+%26+Stats+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
