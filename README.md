@@ -34,22 +34,26 @@
   </a>
 </p>
 
----
 
+---
+ 
+## 🛠️ Skills
+ 
 #### 🐍 Core Languages
 [![Core Languages](https://skillicons.dev/icons?i=py,r,matlab,c,cpp,java,scala,fortran)](https://skillicons.dev)
-
+ 
 #### 🤖 Data Science & ML
 [![Data Science](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,kafka)](https://skillicons.dev)
-
+ 
 #### 📊 Data & Visualization
 [![Viz](https://skillicons.dev/icons?i=d3,p5js,grafana,prometheus)](https://skillicons.dev)
-
+ 
 #### 🗄️ Databases & Big Data
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,cassandra,elasticsearch,dynamodb,sqlite)](https://skillicons.dev)
-
+ 
 #### ⚙️ Dev & DevOps
 [![Dev Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash,cmake,kubernetes,anaconda,latex)](https://skillicons.dev)
+ 
 ---
 
 ## 📊 GitHub Stats
