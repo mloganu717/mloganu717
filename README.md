@@ -36,31 +36,20 @@
 
 ---
 
-## 🛠️ Skills
-
 #### 🐍 Core Languages
-[![Core Languages](https://skillicons.dev/icons?i=py,r,matlab,c,cpp,java)](https://skillicons.dev)
+[![Core Languages](https://skillicons.dev/icons?i=py,r,matlab,c,cpp,java,scala,fortran)](https://skillicons.dev)
 
 #### 🤖 Data Science & ML
-[![Data Science](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)
+[![Data Science](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,kafka)](https://skillicons.dev)
 
-#### ⚡ HPC & Parallel Computing
-<p>
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenMP-0071C5?style=for-the-badge&logo=openmp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MPI-FF6600?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCL-ED1C24?style=for-the-badge&logo=khronos&logoColor=white" />
-</p>
-
-#### 📈 Stats & Visualization
-[![Viz](https://skillicons.dev/icons?i=r,matlab)](https://skillicons.dev)
+#### 📊 Data & Visualization
+[![Viz](https://skillicons.dev/icons?i=d3,p5js,grafana,prometheus)](https://skillicons.dev)
 
 #### 🗄️ Databases & Big Data
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,cassandra,elasticsearch,dynamodb,sqlite)](https://skillicons.dev)
 
 #### ⚙️ Dev & DevOps
-[![Dev Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)](https://skillicons.dev)
-
+[![Dev Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash,cmake,kubernetes,anaconda,latex)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
