@@ -56,18 +56,6 @@
  
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mloganu717&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mloganu717&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 <picture>
